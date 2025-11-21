@@ -8,13 +8,13 @@ go 1.25.3
 require (
 	github.com/shanmugara/spireauthlib v0.0.0-20251121190911-144e942fe6ff
 	github.com/sirupsen/logrus v1.9.3
+	github.com/spiffe/go-spiffe/v2 v2.6.0
 )
 
 require (
 	github.com/Microsoft/go-winio v0.6.2 // indirect
 	github.com/go-jose/go-jose/v4 v4.1.2 // indirect
 	github.com/shanmugara/spiremock v0.0.0-20251121191855-452f124d5028 // indirect
-	github.com/spiffe/go-spiffe/v2 v2.6.0 // indirect
 	github.com/spiffe/spire-api-sdk v1.13.3 // indirect
 	golang.org/x/crypto v0.41.0 // indirect
 	golang.org/x/net v0.43.0 // indirect
