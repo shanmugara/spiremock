@@ -6,7 +6,7 @@ go 1.25.3
 // doesn't import external modules. Add requires back if your code needs them.
 
 require (
-	github.com/shanmugara/spireauthlib v1.0.0
+	github.com/shanmugara/spireauthlib v1.0.14
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spiffe/go-spiffe/v2 v2.6.0
 )
